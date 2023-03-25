@@ -1,1 +1,5 @@
 gitlab_token = "insert yours token"
+
+pub_key = "rsa ....."
+
+full_path = "bla_bla/1234"
